@@ -72,68 +72,120 @@ export const navItems = [
   export const projects = [
     {
       id: 1,
-      title: "3D Solar System Planets to Explore",
-      des: "Explore the wonders of our solar system with this captivating 3D simulation of the planets using Three.js.",
-      img: "/p1.svg",
+      title: "Lagos",
+      des: "Alausa, Lagos Island, Ikorodu, Ikeja.",
+      img: "/location.png",
       iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/fm.svg"],
-      link: "https://github.com/adrianhajdin?tab=repositories",
+      // link: "https://github.com/adrianhajdin?tab=repositories",
     },
     {
       id: 2,
-      title: "Yoom - Video Conferencing App",
-      des: "Simplify your video conferencing experience with Yoom. Seamlessly connect with colleagues and friends.",
-      img: "/p2.svg",
+      title: "Abuja",
+      des: "NASS, Garki.",
+      img: "/location.png",
       iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/stream.svg", "/c.svg"],
-      link: "https://github.com/adrianhajdin/zoom-clone",
+      // link: "https://github.com/adrianhajdin/zoom-clone",
     },
     {
       id: 3,
-      title: "AI Image SaaS - Canva Application",
-      des: "A REAL Software-as-a-Service app with AI features and a payments and credits system using the latest tech stack.",
-      img: "/p3.svg",
+      title: "Port Harcourt",
+      des: "GRA, Rumuokoro, Rumuigbo",
+      img: "/location.png",
       iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/c.svg"],
-      link: "https://github.com/adrianhajdin/ai_saas_app",
+      // link: "https://github.com/adrianhajdin/ai_saas_app",
     },
     {
       id: 4,
-      title: "Animated Apple Iphone 3D Website",
-      des: "Recreated the Apple iPhone 15 Pro website, combining GSAP animations and Three.js 3D effects..",
-      img: "/p4.svg",
+      title: "Edo",
+      des: "Benin City",
+      img: "/location.png",
       iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
-      link: "https://github.com/adrianhajdin/iphone",
+      // link: "https://github.com/adrianhajdin/iphone",
+    },
+    {
+      id: 5,
+      title: "Kaduna",
+      des: "Kaduna",
+      img: "/location.png",
+      iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
+      // link: "https://github.com/adrianhajdin/iphone",
+    },
+    {
+      id: 6,
+      title: "Kano",
+      des: "Kano",
+      img: "/location.png",
+      iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
+      // link: "https://github.com/adrianhajdin/iphone",
     },
   ];
   
   export const testimonials = [
     {
       quote:
-        "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-      name: "Michael Johnson",
-      title: "Director of AlphaStream Technologies",
+        " Scrap the 1999 Constitution: Replace it with a People-made Constitution for the Federal Republic of Nigeria through a Sovereign National Conference immediately followed by a National Referendum",
+      name: "Michael",
+      title: "Well meaning Nigerian",
     },
     {
       quote:
-        "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-      name: "Michael Johnson",
-      title: "Director of AlphaStream Technologies",
+        " Reform the Legislative System: Abolish the Senate arm of the Nigerian Legislative System, retain the House of Representatives (HOR), and make lawmaking a part-time endeavour.",
+      name: "James",
+      title: "Well meaning Nigerian",
     },
     {
       quote:
-        "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-      name: "Michael Johnson",
-      title: "Director of AlphaStream Technologies",
+        " Release #EndSARS Protesters: Immediately release all #EndSARS protesters still in detention and compensate them adequately.",
+        name: "Dan",
+        title: "Well meaning Nigerian",
     },
     {
       quote:
-        "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-      name: "Michael Johnson",
-      title: "Director of AlphaStream Technologies",
+        " Establish a Living Wage: Pay Nigerian workers a minimum wage of nothing less than N250,000 monthly. Implement a living wage for all citizens.",
+        name: "Mike",
+        title: "Well meaning Nigerian",
     },
     {
       quote:
-        "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-      name: "Michael Johnson",
-      title: "Director of AlphaStream Technologies",
+        "Equal Pay for Officials: Ensure all elected and appointed officials are on the same minimum wage as civil servants.",
+        name: "Sam",
+        title: "Well meaning Nigerian",
+    },
+    {
+      quote:
+        " Increase Salaries of Key Workers: Immediately increase the salaries of all security personnel, health workers, and teachers by at least 35%.",
+        name: "Kal",
+        title: "Well meaning Nigerian",
+    },
+    {
+      quote:
+        " State of Emergency in Education: Declare a state of emergency in education. Revamp all public school structures to world standards, prohibit public office holders from sending their children abroad for education, and give Nigerian students grants, not loans. Ensure free, compulsory, and quality education for all children.",
+        name: "Blake",
+        title: "Well meaning Nigerian",
+    },
+    {
+      quote:
+        " Ban on Foreign Medical Trips: Place an immediate ban on foreign medical trips for all public office holders and mandate the use of public hospitals in Nigeria.",
+        name: "Doyin",
+        title: "Well meaning Nigerian",
+    },
+    {
+      quote:
+        " Probe and Recover Looted Funds: Investigate past and present Nigerian leaders who have looted the treasury, recover their loot, and deposit it in a special account to fund education, healthcare, and infrastructure. Renationalize publicly owned enterprises sold to government officials and cronies.",
+        name: "James",
+        title: "Well meaning Nigerian",
+    },
+    {
+      quote:
+        "Reinstate Subsidy Regime: Reinstate a corruption-free subsidy regime to reduce hunger, starvation, and multidimensional poverty. Revert fuel price to 100 Naira per litre.",
+        name: "John",
+        title: "Well meaning Nigerian",
+    },
+    {
+      quote:
+        "End Insecurity and Protect Farmers: End banditry, terrorism, and violent crimes. Provide immediate protection to farmers, restore stolen lands, and subsidize farm inputs. Reform security agencies to stop continuous human rights violations and duplication of security agencies.",
+        name: "Harry",
+        title: "Well meaning Nigerian",
     },
   ];
   

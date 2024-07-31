@@ -6,10 +6,10 @@ import { FaLocationArrow } from 'react-icons/fa'
 
 const RecentProjects = () => {
     return (
-        <div className='py-20' id='projects'>
+        <div className='py-20' id='about'>
             <h1 className='heading'>
-                A small selection of {' '}
-                <span className='text-purple'>recent projects</span>
+                Venues for {' '}
+                <span className='text-[green]'>protests</span>
             </h1>
             <div className='flex flex-wrap items-center justify-center p-4 gap-x-24 gap-y-8 mt-10'>
                 {projects.map(({ id, title, des, img, iconLists, link }) => (
@@ -29,7 +29,7 @@ const RecentProjects = () => {
                             </p>
 
                             <div className='flex items-center justify-between mt-7 mb-3'>
-                                <div className='flex items-center'>
+                                {/* <div className='flex items-center'>
                                     {iconLists.map((icon, index) => (
                                         <div key={icon} className='border borderwhite/[0.2] rounded-full bg-black lg:w-10 w-8 h-8 flex justify-center items-center'
                                         style={{
@@ -39,10 +39,10 @@ const RecentProjects = () => {
                                             <img src={icon} alt={icon} className='p2' />
                                         </div>
                                     ))}
-                                </div>
+                                </div> */}
 
                                 <div className='flex justify-center items-center'>
-                                    <p className='flex lg:text-xl md:text-xs text-sm text-purple'>Check Live Site</p>
+                                    <p className='flex lg:text-xl md:text-xs text-sm text-purple'>Check Live Location</p>
                                     <FaLocationArrow className='ms-3' 
                                     color='#cbacf9'/>
                                 </div>
