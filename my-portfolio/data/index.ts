@@ -8,7 +8,7 @@ export const navItems = [
   export const gridItems = [
     {
       id: 1,
-      title: "I prioritize client collaboration, fostering open communication ",
+      title: "I prioritize client collaboration, fostering open communication",
       description: "",
       className: "lg:col-span-3 md:col-span-6 md:row-span-4 lg:min-h-[60vh]",
       imgClassName: "w-full h-full",
@@ -18,7 +18,7 @@ export const navItems = [
     },
     {
       id: 2,
-      title: "Time zone friendly",
+      title: "I build for a Global Audience",
       description: "",
       className: "lg:col-span-2 md:col-span-3 md:row-span-2",
       imgClassName: "",
@@ -29,7 +29,7 @@ export const navItems = [
     {
       id: 3,
       title: "My tech stack",
-      description: "I constantly try to improve",
+      description: "I constantly improve",
       className: "lg:col-span-2 md:col-span-3 md:row-span-2",
       imgClassName: "",
       titleClassName: "justify-start",
@@ -38,7 +38,7 @@ export const navItems = [
     },
     {
       id: 4,
-      title: "Tech enthusiast with a passion for development.",
+      title: "Tech enthusiast with a passion for Bitcoin development.",
       description: "",
       className: "lg:col-span-2 md:col-span-3 md:row-span-1",
       imgClassName: "",
@@ -123,6 +123,7 @@ export const navItems = [
   export const testimonials = [
     {
       quote:
+<<<<<<< HEAD
         " Scrap the 1999 Constitution: Replace it with a People-made Constitution for the Federal Republic of Nigeria through a Sovereign National Conference immediately followed by a National Referendum",
       name: "Michael",
       title: "Well meaning Nigerian",
@@ -186,6 +187,35 @@ export const navItems = [
         "End Insecurity and Protect Farmers: End banditry, terrorism, and violent crimes. Provide immediate protection to farmers, restore stolen lands, and subsidize farm inputs. Reform security agencies to stop continuous human rights violations and duplication of security agencies.",
         name: "Harry",
         title: "Well meaning Nigerian",
+=======
+        "Collaborating with E.S was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
+      name: "Michael Johnson",
+      title: "Director of AlphaStream Technologies",
+    },
+    {
+      quote:
+        "Collaborating with E.S was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
+      name: "Michael Johnson",
+      title: "Director of AlphaStream Technologies",
+    },
+    {
+      quote:
+        "Collaborating with E.S was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
+      name: "Michael Johnson",
+      title: "Director of AlphaStream Technologies",
+    },
+    {
+      quote:
+        "Collaborating with E.S was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
+      name: "Michael Johnson",
+      title: "Director of AlphaStream Technologies",
+    },
+    {
+      quote:
+        "Collaborating with E.S was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
+      name: "Michael Johnson",
+      title: "Director of AlphaStream Technologies",
+>>>>>>> 6ae6b4cd94cd5a1dbedb9677de794c40dbc50fa0
     },
   ];
   
@@ -225,14 +255,14 @@ export const navItems = [
   export const workExperience = [
     {
       id: 1,
-      title: "Frontend Engineer Intern",
+      title: "Frontend Engineer",
       desc: "Assisted in the development of a web-based platform using React.js, enhancing interactivity.",
       className: "md:col-span-2",
       thumbnail: "/exp1.svg",
     },
     {
       id: 2,
-      title: "Mobile App Dev - JSM Tech",
+      title: "Mobile App Dev",
       desc: "Designed and developed mobile app for both iOS & Android platforms using React Native.",
       className: "md:col-span-2", // change to md:col-span-2
       thumbnail: "/exp2.svg",
