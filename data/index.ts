@@ -49,7 +49,7 @@ export const navItems = [
   
     {
       id: 5,
-      title: "Currently building with Freedom technologies",
+      title: "Currently building with Freedom technologies(NOSTR, CASHU)",
       description: "The Inside Scoop",
       className: "md:col-span-3 md:row-span-2",
       imgClassName: "absolute right-0 bottom-0 md:w-96 w-60",
@@ -181,7 +181,7 @@ export const navItems = [
     {
       id: 2,
       title: "Mobile App Dev",
-      desc: "Designed and developed mobile app for both iOS & Android platforms using React Native.",
+      desc: "Designed and developed a BDK wallet for both iOS & Android platforms using React Native.",
       className: "md:col-span-2", // change to md:col-span-2
       thumbnail: "/exp2.svg",
     },
