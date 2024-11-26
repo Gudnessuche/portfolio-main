@@ -8,7 +8,7 @@ export const navItems = [
   export const gridItems = [
     {
       id: 1,
-      title: "I prioritize client collaboration, fostering open communication",
+      title: "Prioritization of client collaboration, fostering open communication",
       description: "",
       className: "lg:col-span-3 md:col-span-6 md:row-span-4 lg:min-h-[60vh]",
       imgClassName: "w-full h-full",
@@ -18,7 +18,7 @@ export const navItems = [
     },
     {
       id: 2,
-      title: "I build for a Global Audience",
+      title: "Building for a Global Audience",
       description: "",
       className: "lg:col-span-2 md:col-span-3 md:row-span-2",
       imgClassName: "",
@@ -28,8 +28,8 @@ export const navItems = [
     },
     {
       id: 3,
-      title: "My tech stack",
-      description: "I constantly improve",
+      title: "Tech stacks",
+      description: "Constantly improves",
       className: "lg:col-span-2 md:col-span-3 md:row-span-2",
       imgClassName: "",
       titleClassName: "justify-start",
@@ -114,25 +114,25 @@ export const navItems = [
     {
       quote:
         "Collaborating with E.S was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-      name: "Michael Johnson",
+      name: "Sam",
       title: "Director of AlphaStream Technologies",
     },
     {
       quote:
         "Collaborating with E.S was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-      name: "Michael Johnson",
+      name: "Dave",
       title: "Director of AlphaStream Technologies",
     },
     {
       quote:
         "Collaborating with E.S was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-      name: "Michael Johnson",
+      name: "Suzy Sue",
       title: "Director of AlphaStream Technologies",
     },
     {
       quote:
         "Collaborating with E.S was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-      name: "Michael Johnson",
+      name: "Harper Lon",
       title: "Director of AlphaStream Technologies",
     },
   ];
@@ -180,8 +180,8 @@ export const navItems = [
     },
     {
       id: 2,
-      title: "Mobile App Dev",
-      desc: "Designed and developed a BDK wallet for both iOS & Android platforms using React Native.",
+      title: "Social Media Strategist",
+      desc: "Helped Bitdevs Social Media expansion for visibility",
       className: "md:col-span-2", // change to md:col-span-2
       thumbnail: "/exp2.svg",
     },
