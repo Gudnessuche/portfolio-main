@@ -174,7 +174,7 @@ export const navItems = [
     {
       id: 1,
       title: "Frontend Engineer",
-      desc: "Assisted in the development of a web-based platform using React.js, enhancing interactivity.",
+      desc: "Assisted in the development of a web-based platform and wallets using React.js, Next.js enhancing interactivity.",
       className: "md:col-span-2",
       thumbnail: "/exp1.svg",
     },
@@ -187,15 +187,15 @@ export const navItems = [
     },
     {
       id: 3,
-      title: "Freelance App Dev Project",
-      desc: "Led the dev of a mobile app for a client, from initial concept to deployment on app stores.",
+      title: "Freelance Lightning App Dev Project",
+      desc: "Led the dev of a mobile app for lightning payments.",
       className: "md:col-span-2", // change to md:col-span-2
       thumbnail: "/exp3.svg",
     },
     {
       id: 4,
       title: "Lead Frontend Developer",
-      desc: "Developed and maintained user-facing features using modern frontend technologies.",
+      desc: "Developed and maintained user-facing features using modern frontend technologies for Nostr Wallet Connect.",
       className: "md:col-span-2",
       thumbnail: "/exp4.svg",
     },
