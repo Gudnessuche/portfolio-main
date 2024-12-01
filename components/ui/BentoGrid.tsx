@@ -53,7 +53,7 @@ export const BentoGridItem = ({
     spareImg?: string;
 }) => {
 
-    const leftLists = ["ReactJS", "Express", "Typescript"];
+    const leftLists = ["Rust", "Bitcoin Script", "Typescript"];
     const rightLists = ["Python", "NextJS", "MongoDB"];
 
     const [copied, setCopied] = useState(false);
@@ -68,7 +68,7 @@ export const BentoGridItem = ({
     };
 
     const handleCopy = () => {
-        const text = "everythingsatoshi1@gmail.com";
+        const text = "everythingsatoshi@proton.me";
         navigator.clipboard.writeText(text);
         setCopied(true);
     };
@@ -133,7 +133,7 @@ export const BentoGridItem = ({
                                             {item}
                                         </span>
                                     ))}
-                                <span className="lg:py-4 lg:px-3 py-1 px-3 rounded-lg text-center bg-[#10132e"></span>
+                                <span className="lg:py-4 lg:px-3 py-1 px-3 rounded-lg text-center bg-[#10132e]"></span>
                             </div>
                             <div className="flex flex-col gap-1 md:gap-1 lg:gap-5">
                                 {rightLists.map
@@ -142,7 +142,7 @@ export const BentoGridItem = ({
                                             {item}
                                         </span>
                                     ))}
-                                <span className="lg:py-4 lg:px-3 py-4 px-3 rounded-lg text-center bg-[#10132e"></span>
+                                <span className="lg:py-4 lg:px-3 py-4 px-3 rounded-lg text-center bg-[#10132e]"></span>
                             </div>
                         </div>
                     )}
