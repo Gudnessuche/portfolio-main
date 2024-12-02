@@ -88,7 +88,7 @@ export const navItems = [
     },
     {
       id: 3,
-      title: "AFSTR FOOd",
+      title: "AFSTR FOOD",
       des: "A Restaurant's website for ordering meals using the latest tech stack and Bitcoin as payment.",
       img: "/p3.svg",
       iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/c.svg"],
