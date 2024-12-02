@@ -72,16 +72,16 @@ export const navItems = [
   export const projects = [
     {
       id: 1,
-      title: "BIP 119: CheckTemplateVerify (CTV) Contribution",
-      des: "Merged PR for CTV helping fix minor issues to help explain the need for Covenants.",
+      title: "BIP 119: CTV Contribution",
+      des: "Merged PR for CheckTemplateVerify helping fix minor issues to help explain the need for Covenants.",
       img: "/p1.svg",
       iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/fm.svg"],
       link: "https://github.com/bitcoin/bips/pull/1704",
     },
     {
       id: 2,
-      title: "NIP 47: Nostr Wallet Connect (NWC) contribution",
-      des: "Fixed some methods required to make NWC work properly.",
+      title: "NIP 47: NWC contribution",
+      des: "Fixed some methods required to make Nostr Wallet Connect work properly.",
       img: "/p2.svg",
       iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/stream.svg", "/c.svg"],
       link: "https://github.com/nostr-protocol/nips/pull/1611",
