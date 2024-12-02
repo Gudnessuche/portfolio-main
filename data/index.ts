@@ -72,7 +72,7 @@ export const navItems = [
   export const projects = [
     {
       id: 1,
-      title: "BIP 119: CheckTemplateVerify Contribution",
+      title: "BIP 119: CheckTemplateVerify (CTV) Contribution",
       des: "Merged PR for CTV helping fix minor issues to help explain the need for Covenants.",
       img: "/p1.svg",
       iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/fm.svg"],
@@ -80,11 +80,11 @@ export const navItems = [
     },
     {
       id: 2,
-      title: "Yoom - Video Conferencing App",
-      des: "Simplify your video conferencing experience with Yoom. Seamlessly connect with colleagues and friends.",
+      title: "NIP 47: Nostr Wallet Connect (NWC) contribution",
+      des: "Fixed some methods required to make NWC work properly.",
       img: "/p2.svg",
       iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/stream.svg", "/c.svg"],
-      link: "https://github.com/adrianhajdin/zoom-clone",
+      link: "https://github.com/nostr-protocol/nips/pull/1611",
     },
     {
       id: 3,
