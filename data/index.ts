@@ -49,7 +49,7 @@ export const navItems = [
   
     {
       id: 5,
-      title: "Currently building with Freedom technologies(NOSTR, CASHU)",
+      title: "Currently building with Freedom technologies(NOSTR, CASHU, Bitcoin)",
       description: "The Inside Scoop",
       className: "md:col-span-3 md:row-span-2",
       imgClassName: "absolute right-0 bottom-0 md:w-96 w-60",
