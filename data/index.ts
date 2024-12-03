@@ -82,7 +82,7 @@ export const navItems = [
       id: 2,
       title: "NIP 47: NWC contribution",
       des: "Fixed some methods required to make Nostr Wallet Connect work properly.",
-      img: "/p2.svg",
+      img: "/p2.png",
       iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/stream.svg", "/c.svg"],
       link: "https://github.com/nostr-protocol/nips/pull/1611",
     },
