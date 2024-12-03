@@ -98,7 +98,7 @@ export const navItems = [
       id: 4,
       title: "Afstr-AI",
       des: "Recreated the Gemini AI platform and utilized it's API.",
-      img: "/p4.svg",
+      img: "/running-nostr.gif",
       iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
       link: "https://github.com/Gudnessuche/Afstr-AI",
     },
