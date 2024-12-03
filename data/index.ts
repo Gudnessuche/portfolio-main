@@ -54,7 +54,7 @@ export const navItems = [
       className: "md:col-span-3 md:row-span-2",
       imgClassName: "absolute right-0 bottom-0 md:w-96 w-60",
       titleClassName: "justify-center md:justify-start lg:justify-center",
-      img: "/b5.svg",
+      img: "/running-nostr.gif",
       spareImg: "/grid.svg",
     },
     {
@@ -98,7 +98,7 @@ export const navItems = [
       id: 4,
       title: "Afstr-AI",
       des: "Recreated the Gemini AI platform and utilized it's API.",
-      img: "/running-nostr.gif",
+      img: "/b5.svg",
       iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
       link: "https://github.com/Gudnessuche/Afstr-AI",
     },
