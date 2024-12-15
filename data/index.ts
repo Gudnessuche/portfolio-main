@@ -205,6 +205,7 @@ export const navItems = [
     {
       id: 1,
       img: "/git.svg",
+      link: "https://github.com/Gudnessuche/"
     },
     {
       id: 2,
