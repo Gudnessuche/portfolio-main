@@ -18,7 +18,7 @@ export const navItems = [
     },
     {
       id: 2,
-      title: "Building for a Global Audience",
+      title: "Building for a Global Audience in mind",
       description: "",
       className: "lg:col-span-2 md:col-span-3 md:row-span-2",
       imgClassName: "",
@@ -29,7 +29,7 @@ export const navItems = [
     {
       id: 3,
       title: "Tech stacks",
-      description: "Constantly improves",
+      description: "Constantly improveing",
       className: "lg:col-span-2 md:col-span-3 md:row-span-2",
       imgClassName: "",
       titleClassName: "justify-start",
