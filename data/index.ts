@@ -29,7 +29,7 @@ export const navItems = [
     {
       id: 3,
       title: "Tech stacks",
-      description: "Constantly improveing",
+      description: "Constantly improving",
       className: "lg:col-span-2 md:col-span-3 md:row-span-2",
       imgClassName: "",
       titleClassName: "justify-start",
@@ -49,7 +49,7 @@ export const navItems = [
   
     {
       id: 5,
-      title: "Currently building with Freedom technologies(NOSTR)",
+      title: "Currently building with Freedom tool like NOSTR",
       description: "The Inside Scoop",
       className: "md:col-span-3 md:row-span-2",
       imgClassName: "absolute right-0 bottom-0 md:w-96 w-60",
