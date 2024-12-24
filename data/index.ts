@@ -107,33 +107,27 @@ export const navItems = [
   export const testimonials = [
     {
       quote:
-        "Collaborating with E.S was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-      name: "Michael Johnson",
-      title: "Director of AlphaStream Technologies",
+        "Collaborating with E.S was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project.",
+      name: "Jeezmman",
+      title: "Senior Software Developer",
     },
     {
       quote:
-        "Collaborating with E.S was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-      name: "Sam",
-      title: "Director of AlphaStream Technologies",
+        "E.S's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, E.S is the ideal partner.",
+      name: "Jack Houdini",
+      title: "Devops at Bitnob",
     },
     {
       quote:
-        "Collaborating with E.S was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-      name: "Dave",
-      title: "Director of AlphaStream Technologies",
+        "The most intelligent person to have work on anything you need done.",
+      name: "Monalisa",
+      title: "Meidcal professional and Entrepreneur.",
     },
     {
       quote:
-        "Collaborating with E.S was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-      name: "Suzy Sue",
-      title: "Director of AlphaStream Technologies",
-    },
-    {
-      quote:
-        "Collaborating with E.S was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-      name: "Harper Lon",
-      title: "Director of AlphaStream Technologies",
+        "Exceptional human being,very patient and thorough with their work",
+      name: "Mohammed",
+      title: "CEO of a Real Estate company.",
     },
   ];
   
